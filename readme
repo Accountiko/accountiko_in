@@ -1,0 +1,4 @@
+## for build docker 
+docker build -t accountiko_in .    
+## for run docker
+docker run -it -p 8000:8000 accountiko_in
